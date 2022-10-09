@@ -9,5 +9,5 @@ public class PrimaryDataSourceProperties{
     private int minimumIdle;
     private String poolName;
 
-    //Getters and Setters
+    //Getters & Setters
 }
